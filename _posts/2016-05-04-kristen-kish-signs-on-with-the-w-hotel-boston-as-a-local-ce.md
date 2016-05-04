@@ -4,11 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Kristen Kish signs on with the W Hotel Boston as a local "celebrity insider" and names  '
-datePublished: '2016-05-04T20:45:23.110Z'
-dateModified: '2016-05-04T20:45:04.529Z'
+description: 'Kristen Kish signs on with the W Hotel Boston as a local "celebrity insider" and names '
+datePublished: '2016-05-04T20:46:18.158Z'
+dateModified: '2016-05-04T20:46:09.684Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-04-kristen-kish-signs-on-with-the-w-hotel-boston-as-a-local-ce.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-04-kristen-kish-signs-on-with-the-w-hotel-boston-as-a-local-ce.md
 url: kristen-kish-signs-on-with-the-w-hotel-boston-as-a-local-ce/index.html
 _type: Article
 
