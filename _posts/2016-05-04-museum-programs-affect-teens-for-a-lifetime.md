@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Youth + Art = Success! Check out the murals produced by youth throughout the city by the Mayor's Mural Crew with The Alley Gallery (TAG) Boston."
-datePublished: '2016-05-04T20:54:54.199Z'
-dateModified: '2016-05-04T20:54:43.429Z'
+datePublished: '2016-05-05T13:10:03.284Z'
+dateModified: '2016-05-04T20:55:01.286Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-04-museum-programs-affect-teens-for-a-lifetime.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-04-museum-programs-affect-teens-for-a-lifetime.md
 url: museum-programs-affect-teens-for-a-lifetime/index.html
 _type: Article
 
