@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Taste her cupcakes on several of the experiences offered at BostonChocolateTours.com. Yum! Read article about award >'
-datePublished: '2016-05-05T13:42:57.278Z'
-dateModified: '2016-05-05T13:42:02.276Z'
+datePublished: '2016-05-05T13:43:45.424Z'
+dateModified: '2016-05-05T13:43:06.302Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-04-joanne-chang-named-outstanding-baker-by-the-james-beard-foun.md
