@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Names Olives & Grace as one of her fav spots in the city. We're proud to feature this South End shop as one of our featured shops on our South End chocolate tour! Read about Kristen Kisch >"
-datePublished: '2016-05-05T13:12:41.980Z'
-dateModified: '2016-05-05T13:12:37.945Z'
+datePublished: '2016-05-05T13:41:16.849Z'
+dateModified: '2016-05-05T13:12:51.400Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-04-kristen-kish-signs-on-with-the-w-hotel-boston-as-a-local-ce.md
